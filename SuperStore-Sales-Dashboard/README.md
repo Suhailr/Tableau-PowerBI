@@ -21,7 +21,6 @@ This Tableau dashboard analyzes Superstore’s sales data, helping businesses un
 2. Open it in [Tableau Public](https://public.tableau.com/).
 3. Interact with the visualizations and gain insights!
 
-💡 **Check out the full project:** [GitHub Repository Link]
 
-👨‍💻 **Let’s connect!** (https://www.linkedin.com/in/suyogjoshi2/)
+
 
